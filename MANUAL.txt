@@ -1,0 +1,34 @@
+To find the APK file, go to Build000 Folder, then find JYang_FP_V.3.07.apk
+
+
+Two Scenes in this project.
+
+Initial Scene:
+	use Grip button(middle finger) to GRAB or TELEPORT.
+	use Trigger button(index finger) to SELECT.
+
+Intractable List:
+	The Radio(Music Player): GRAB then CLICK to turn on/off
+	TV Remote: GRAB then CLICK to turn on/off
+	IPAD: GRAB then CLICK to turn on/off
+	Play Tennis
+	Style yourself(Put on the Hat by GRAB then place it to your head)
+Two Buttons on the adjacent wall:
+	Click to RESET the room
+	Click to jump to FPS Scene
+
+
+FPS Scene:
+	Pick up the gun by holding GRIP, then use trigger to shoot.
+	Shoot target to start the game.
+	A timer and score will show up the monitor.
+	you can quit the FPS scene at any time when pressing B or Y button on your controller.
+
+
+
+
+
+
+
+
+

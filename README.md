@@ -14,3 +14,5 @@ zone, and haptic feedback to ensure a fully immersive and interactive experience
 
 • Employed strategies to optimize comfort, including baked lighting, anti-aliasing, VR hands combined with C#
 scripting and animator blend trees, collision, particle systems, and an integrated game manager.
+
+If you would like to access the source code, use this link: https://drive.google.com/drive/u/0/folders/1v1kPwopDNk-Z4c6XfF6bLlp4yy3XSYSP
